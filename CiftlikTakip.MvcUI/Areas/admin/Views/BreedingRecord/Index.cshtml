@@ -1,0 +1,64 @@
+﻿@using CiftlikTakip.MvcUI.Areas.admin.Models.Items;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<BreedingRecordItem>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Büyükbaşlar</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="~/Home">Dashboard</a></li>
+                    <li class="breadcrumb-item active">BüyükBaş Bilgileri</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    // Tabloya özel Düzenleme
+    function performEdit(response) {
+        $("#txtkupeno").val(response.animalCode);
+        $("#reservationdate").val(response.breedingDate);
+    }
+    function tablo() {
+        $("#example2").DataTable({
+            language: {
+                url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/tr.json'
+            },
+            order: [
+                [0, 'asc']
+            ],
+            "columnDefs": [{
+                "targets": 0,
+                "orderable": false,
+            }],
+            "paging": true,
+            "lengthChange": false,
+            "searching": false,
+            "info": true,
+            "autoWidth": false,
+            "responsive": true,
+        });
+    }
+
+    function performShow(response, id) {
+        $("#spnAnimalCode").text(response.animalCode);
+        $("#spnBreedingName").text(response.breedingName);
+        $("#spnBreedingStatus").text(response.breedingStatus);
+        $("#spnBreedingDate").text(response.breedingDate);
+        $("#spnExpectedBirthDate").text(response.expectedBirthDate);
+        $("#spnBreedingStatus").text(response.breedingStatus);
+        $("#spnAnimalTypeName").text(response.animalTypeName);
+        $("#spnDescription").text(response.description);
+    }
+</script>
+<partial name="Details" />
+<partial name="Table" />
+<partial name="View" />
+

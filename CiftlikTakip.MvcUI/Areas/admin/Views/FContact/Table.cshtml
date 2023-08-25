@@ -1,0 +1,61 @@
+﻿<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Gelen Kutusu</h3>
+                </div>
+                <div class="card-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>FullName</th>
+                                <th>Email</th>
+                                <th>Subject</th>
+                                <th>Message</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align: center;">
+                            @if (Model != null)
+                            {
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="align-middle">@item.FullName</td>
+                                        <td class="align-middle">@item.Email</td>
+                                        <td class="align-middle">@item.Subject</td>
+                                        <td class="align-middle">@(item.Message.Length > 30 ? item.Message.Substring(0, 30) + "..." : item.Message)</td>
+                                        <td class="project-actions text-right align-middle">
+                                            <div style="text-align: center;">
+                                                <button type="button" class="btn btn-success btn-xs btnShow" url="/admin/FContact/View/" vId="@item.Id">
+                                                    <i class="fa fa-eye">
+                                                    </i>
+                                                    Göster
+                                                </button>
+                                                <button type="button" class="btn btn-danger btn-xs btnDelete" url="/admin/FContact/Delete/" vId="@item.Id" itemTitle="@item.FullName">
+                                                    <i class="fas fa-trash">
+                                                    </i>
+                                                    Kaldır
+                                                </button>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>FullName</th>
+                                <th>Email</th>
+                                <th>Subject</th>
+                                <th>Message</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

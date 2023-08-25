@@ -1,0 +1,83 @@
+﻿<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">İletişim Bilgileri</h3>
+                    <button type="button" class="btn btn-success float-right" data-toggle="modal" data-target="#modal-lg">
+                        Personel Ekle
+                    </button>
+                </div>
+                <div class="card-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th>TCKN</th>
+                                <th>FullName</th>
+                                <th>MobilePhone</th>
+                                @* <th>Description</th> *@
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align: center;">
+                            @if (Model != null)
+                            {
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="align-middle">
+                                            @if (item.Image != null)
+                                            {
+                                                <img src="/../..@item.Image" style="height: auto; width: 3.1rem; border-radius: 50%;">
+                                            }
+                                            else
+                                            {
+                                                <img src="/admin/dist/img/noimage.png" style="height: auto; width: 3.1rem; border-radius: 50%;">
+                                            }
+                                            @* <img src="/../..@item.Image" style="height: auto; width: 3.1rem; border-radius: 50%;"> *@
+                                        </td>
+                                        <td class="align-middle">@item.TCKN</td>
+                                        <td class="align-middle">@item.FirstName @item.LastName</td>
+                                        <td class="align-middle">@item.MobilePhone</td>
+                                        @* <td class="align-middle">@item.Description</td> *@
+                                        <td class="project-actions text-right align-middle">
+                                            <div style="text-align: center;">
+                                                <button type="button" class="btn btn-success btn-xs btnShow" url="/admin/Employee/View/" vId="@item.Id">
+                                                    <i class="fa fa-eye">
+                                                    </i>
+                                                    Göster
+                                                </button>
+                                                <button type="button" class="btn btn-info btn-xs btnEdit" url="/admin/Employee/Edit/" vId="@item.Id">
+                                                    <i class="fas fa-pencil-alt">
+                                                    </i>
+                                                    Düzenle
+                                                </button>
+                                                <button type="button" class="btn btn-danger btn-xs btnDelete" url="/admin/Employee/Delete/" vId="@item.Id" itemTitle="@item.TCKN">
+                                                    <i class="fas fa-trash">
+                                                    </i>
+                                                    Kaldır
+                                                </button>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>Image</th>
+                                <th>TCKN</th>
+                                <th>FullName</th>
+                                <th>MobilePhone</th>
+                                @* <th>Description</th> *@
+                                <th>İşlemler</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,207 @@
+﻿@using CiftlikTakip.MvcUI.Areas.admin.Models.Items;
+@model UserAccessPermissionItem
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <a href="/admin/Home/Index" class="brand-link">
+        <img src="~/admin/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+        <span class="brand-text font-weight-light">Çiftlik Sürü Takip</span>
+    </a>
+    <div class="sidebar os-host os-theme-light os-host-resize-disabled os-host-transition os-host-overflow os-host-overflow-y os-host-scrollbar-horizontal-hidden">
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+            <div class="image">
+                <img src="~/admin/dist/img/avatar5.png" class="img-circle elevation-2" alt="User Image">
+            </div>
+            <div class="info">
+                <a href="#" class="d-block">Kullanıcı Adı : @Model.Username</a>
+                <a class="d-block">Ip Adresi : @Model.IPAddress</a>
+            </div>
+        </div>
+        <div class="form-inline">
+            <div class="input-group" data-widget="sidebar-search">
+                <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
+                <div class="input-group-append">
+                    <button class="btn btn-sidebar">
+                        <i class="fas fa-search fa-fw"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                <li class="nav-header">Genel İşlemler</li>
+@*                 <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon fas fa-book"></i>
+                        <p>
+                            Büyükbaş İşlemleri
+                            <i class="fas fa-angle-left right"></i>
+                        </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        
+                    </ul>
+                </li> *@
+                <li class="nav-item">
+                    <a href="/admin/BreedingRecord/Index" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Hayvan Takip İşlemleri</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/AnimalStall/Index" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Padok İşlemleri</p>
+                    </a>
+                </li>
+@*                 <li class="nav-item">
+                    <a href="/admin/AnimalTreatment/Index" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Hastalık Geçmişi İşlemleri</p>
+                    </a>
+                </li> *@
+                <li class="nav-item">
+                    <a href="/admin/AnimalBreed/Index" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>Irk İşlemleri</p>
+                    </a>
+                </li>
+@*                 <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon fas fa-book"></i>
+                        <p>
+                            Sağlık işlemleri
+                            <i class="fas fa-angle-left right"></i>
+                        </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a href="/admin/AnimalVaccination/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Sağlık Aşı Detayları</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/admin/Vaccination/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Yeni Aşı İşlemleri</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/admin/AnimalMedication/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Sağlık İlaç Detayları</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/admin/Medication/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Yeni İlaç İşlemleri</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon fas fa-book"></i>
+                        <p>
+                            Envanter İşlemleri
+                            <i class="fas fa-angle-left right"></i>
+                        </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a href="/admin/ProductStock/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Envanter Detayları</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/admin/ProductFeedItem/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Yeni Ürün İşlemleri</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/Contact/Index" class="nav-link">
+                        <i class="far fa-circle nav-icon"></i>
+                        <p>İletişim Rehberi</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon fas fa-book"></i>
+                        <p>
+                            Görev İşlemleri
+                            <i class="fas fa-angle-left right"></i>
+                        </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a href="/admin/TaskCategory/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Kategori Ekle</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/admin/TaskManagement/Index" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Tüm Görevler</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>*@
+                <li class="nav-item"> 
+                    <a href="/admin/Employee/Index" class="nav-link">
+                        <i class="fa fa-user-circle nav-icon"></i>
+                        <p>Personeller</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/Company/Index" class="nav-link">
+                        <i class="fa fa-building nav-icon"></i>
+                        <p>Tedarikçiler</p>
+                    </a>
+                </li>
+                <li class="nav-header">Yönetici Paneli</li>
+                <li class="nav-item">
+                    <a href="/admin/WebsiteInfo/Index" class="nav-link">
+                        <i class="fa fa-cog nav-icon"></i>
+                        <p>Site Ayarları</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/Authentication/Index" class="nav-link">
+                        <i class="far fa-user nav-icon"></i>
+                        <p>Kullanıcılar</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/FContact/Index" class="nav-link">
+                        <i class="nav-icon far fa-envelope"></i>
+                        <p>Mesaj Kutusu</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/FFaq/Index" class="nav-link">
+                        <i class="fa fa-question-circle nav-icon"></i>
+                        <p>SSS</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/FService/Index" class="nav-link">
+                        <i class="fa fa-list nav-icon"></i>
+                        <p>Hizmetler</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="/admin/FTeam/Index" class="nav-link">
+                        <i class="nav-icon far fa-circle text-danger"></i>
+                        <p>Ekip</p>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</aside>

@@ -1,0 +1,90 @@
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/CiftlikTakip.Model.deps.json
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/CiftlikTakip.Model.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/CiftlikTakip.Model.pdb
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/Infrastructure.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/Infrastructure.pdb
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.csproj.AssemblyReference.cache
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.AssemblyInfoInputs.cache
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.AssemblyInfo.cs
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.csproj.CoreCompileInputs.cache
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.csproj.CopyComplete
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/refint/CiftlikTakip.Model.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.pdb
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/ref/CiftlikTakip.Model.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/CiftlikTakip.Model.deps.json
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/CiftlikTakip.Model.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/CiftlikTakip.Model.pdb
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/Infrastructure.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/bin/Debug/net6.0/Infrastructure.pdb
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.csproj.AssemblyReference.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.AssemblyInfoInputs.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.AssemblyInfo.cs
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.csproj.CoreCompileInputs.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.csproj.CopyComplete
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/refint/CiftlikTakip.Model.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/CiftlikTakip.Model.pdb
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.Model/obj/Debug/net6.0/ref/CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.deps.json
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfo.cs
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CopyComplete
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\refint\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\ref\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.deps.json
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfo.cs
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CopyComplete
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\refint\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\ref\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.deps.json
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfo.cs
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CopyComplete
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\refint\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\ref\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.deps.json
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.AssemblyInfo.cs
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.csproj.CopyComplete
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\refint\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.Model\obj\Debug\net6.0\ref\CiftlikTakip.Model.dll

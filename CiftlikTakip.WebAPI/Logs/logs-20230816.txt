@@ -1,0 +1,2073 @@
+2023-08-16 15:42:12.473 +03:00 [DBG] Hosting starting
+2023-08-16 15:42:12.719 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-16 15:42:12.729 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-16 15:42:12.733 +03:00 [INF] Hosting environment: Development
+2023-08-16 15:42:12.735 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-16 15:42:12.736 +03:00 [DBG] Hosting started
+2023-08-16 15:42:14.383 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-16 15:42:14.826 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 12:42:13 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 15:42:14.977 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 15:42:15.245 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 12:42:14 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 15:56:31.036 +03:00 [DBG] Hosting starting
+2023-08-16 15:56:31.224 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-16 15:56:31.234 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-16 15:56:31.238 +03:00 [INF] Hosting environment: Development
+2023-08-16 15:56:31.240 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-16 15:56:31.241 +03:00 [DBG] Hosting started
+2023-08-16 15:56:31.801 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-16 15:56:32.239 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 12:56:31 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 15:56:32.406 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 15:56:32.708 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 12:56:32 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 15:58:01.612 +03:00 [DBG] Hosting starting
+2023-08-16 15:58:01.824 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-16 15:58:01.833 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-16 15:58:01.837 +03:00 [INF] Hosting environment: Development
+2023-08-16 15:58:01.839 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-16 15:58:01.840 +03:00 [DBG] Hosting started
+2023-08-16 15:58:02.692 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-16 15:58:03.126 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 12:58:02 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 15:58:03.258 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 15:58:03.532 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 12:58:02 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 15:58:06.325 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 15:58:10.640 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 12:58:09 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:02:27.231 +03:00 [DBG] Hosting starting
+2023-08-16 16:02:27.426 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-16 16:02:27.437 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-16 16:02:27.440 +03:00 [INF] Hosting environment: Development
+2023-08-16 16:02:27.442 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-16 16:02:27.443 +03:00 [DBG] Hosting started
+2023-08-16 16:02:27.996 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:02:28.266 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-16 16:02:28.759 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:02:28 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:02:28.918 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:02:29.174 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:02:28 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:02:31.759 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:02:31 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:03:44.736 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:03:44.912 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:03:43 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:03:46.351 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:03:46.485 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:03:46 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:03:46.953 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:03:46.973 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:03:46 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:03:47.131 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:03:47.209 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:03:47.231 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:03:47.271 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:03:47 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:03:47.331 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:03:47 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:03:47.347 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:03:47 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:03:53.625 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:03:53.740 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:03:53 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:25.325 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:04:25.383 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:04:25.407 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:25 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:25.431 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:04:25.458 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:25 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:25.544 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:25 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:25.747 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:04:25.883 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:25 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:41.093 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:04:41.117 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:41.137 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:04:41.257 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:41.502 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:04:41.614 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:41 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:54.991 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:04:55.007 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:54 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:55.026 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:04:55.153 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:54 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:04:55.239 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:04:55.370 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:04:54 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:05:24.031 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:05:24.142 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:05:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:05:41.095 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:05:41.209 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:05:41 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:05:45.506 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:05:45.519 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:05:45 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:05:45.567 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:05:45.672 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:05:45.702 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:05:45 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:05:45.773 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:05:45 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:05:48.497 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:05:48.610 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:05:48 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:06:22.293 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:06:22.341 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:06:22.356 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:06:21 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:06:22.383 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:06:22.412 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:06:21 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:06:22.497 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:06:22 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:06:22.583 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:06:22.687 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:06:22 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:06:41.133 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:06:41.259 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:06:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:07:13.489 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:07:13.503 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:07:12 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:07:13.558 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:07:13.671 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:07:13.682 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:07:12 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:07:13.801 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:07:12 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:12:45.415 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:12:45.449 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:12:44 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:12:45.505 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:12:45.627 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:12:45.630 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:12:44 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:12:45.758 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:12:44 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:13:37.949 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:13:37.969 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:13:37 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:13:38.020 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:13:38.145 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:13:37 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:13:38.148 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:13:38.321 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:13:37 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:17.132 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:18:17.157 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:16 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:17.214 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:18:17.332 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:16 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:17.537 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:18:17.636 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:18:17.667 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:16 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:17.774 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:17 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:40.283 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:18:40.401 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:39 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:41.365 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:18:41.389 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:41.426 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:18:41.560 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:41.641 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:18:41.757 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:42.002 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:18:42.123 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:41 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:18:56.462 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:18:56.575 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:18:56 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:19:03.051 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:19:03.174 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:19:03 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:19:11.489 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:19:11.504 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:19:11 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:19:11.521 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:19:11.650 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:19:11 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:19:11.726 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:19:11.941 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:19:11 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:21:10.920 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:21:11.034 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:21:10 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:21:12.775 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:21:12.888 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:21:12 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:21:42.234 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:21:42.396 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:21:41 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:23:29.258 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:23:29.302 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:23:28 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:23:29.343 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:23:29.458 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:23:28 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:23:29.960 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:23:30.196 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:23:29 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:25:02.182 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:25:02.208 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:25:02.220 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:25:01 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:25:02.307 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:25:01 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:25:02.472 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:25:02.641 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:25:02 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:25:23.867 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:25:23.893 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:25:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:25:23.964 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:25:24.075 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:25:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:25:24.080 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:25:24.178 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:25:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:28:33.086 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:28:33.213 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:28:32 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:28:36.663 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:28:36.786 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:28:36 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:30:39.121 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:30:39.233 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:30:38 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:35:26.869 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:35:26.994 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:35:26 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:35:30.762 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:35:30.875 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:35:30 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:36:23.243 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:36:23.261 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:36:22 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:36:23.320 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:36:23.437 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:36:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:36:23.446 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:36:23.577 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:36:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:36:27.764 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:36:27.891 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:36:27 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:36:30.164 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:36:30.287 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:36:29 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:38:25.045 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:38:25.074 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:38:24 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:38:25.124 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:38:25.226 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:38:25.241 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:38:24 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:38:25.372 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:38:25 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:39:41.172 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:39:41.188 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:39:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:39:41.212 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:39:41.331 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:39:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:39:41.401 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:39:41.504 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:39:40 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:39:44.664 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:39:44.781 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:39:43 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:41:16.593 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:41:16.713 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:41:15 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:41:18.653 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:41:18.775 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:41:17 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:41:21.754 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:41:21.873 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:41:21 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:43:10.454 +03:00 [DBG] Hosting starting
+2023-08-16 16:43:10.647 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-16 16:43:10.658 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-16 16:43:10.662 +03:00 [INF] Hosting environment: Development
+2023-08-16 16:43:10.665 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-16 16:43:10.667 +03:00 [DBG] Hosting started
+2023-08-16 16:43:11.194 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-16 16:43:11.585 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:43:10 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:43:11.696 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:43:11.943 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:43:11 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:43:14.835 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:43:17.761 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:43:17 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:59:53.450 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-16 16:59:53.680 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Wed, 16 Aug 2023 13:59:52 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:59:54.816 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cache-Control: max-age=0
+Cookie: [Redacted]
+Referer: [Redacted]
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:59:54.839 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Wed, 16 Aug 2023 13:59:54 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-16 16:59:55.087 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Cookie: [Redacted]
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-16 16:59:55.208 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Wed, 16 Aug 2023 13:59:55 GMT
+Server: Kestrel
+Transfer-Encoding: chunked

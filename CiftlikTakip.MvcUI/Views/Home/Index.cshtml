@@ -1,0 +1,146 @@
+﻿@using CiftlikTakip.MvcUI.Models.ViewModels;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model FHomeViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- ======= Header ======= -->
+<header id="header" class="header fixed-top d-flex align-items-center">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+
+        <a href="#hero" class="logo d-flex align-items-center me-auto me-xl-0">
+            <!-- Uncomment the line below if you also wish to use an image logo -->
+            <!-- <img src="assets/img/logo.png" alt=""> -->
+            <h1>Çiftlik Takip</h1>
+            <span>.</span>
+        </a>
+
+        <!-- Nav Menu -->
+        <nav id="navmenu" class="navmenu">
+            <ul>
+                <li><a href="#hero" class="active">Anasayfa</a></li>
+                <li><a href="#about">Hakkımızda</a></li>
+                <li><a href="#services">Hizmetlerimiz</a></li>
+                <li><a href="#pricing">Fiyatlandırma</a></li>
+                <li><a href="#faq">SSS</a></li>
+                <li><a href="#team">Ekip</a></li>
+                <li><a href="#contact">İletişim</a></li>
+            </ul>
+
+            <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+        </nav><!-- End Nav Menu -->
+
+        <a class="btn-getstarted" href="/admin/">Müşteri Paneli</a>
+
+    </div>
+</header><!-- End Header -->
+
+<main id="main">
+
+    <!-- Hero Section - Home Page -->
+    <section id="hero" class="hero">
+
+        <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10">
+                    <h2 data-aos="fade-up" data-aos-delay="100">Online Çiftlik Takip Sistemi</h2>
+                    <p data-aos="fade-up" data-aos-delay="200">Süt & Besi Çiftlikler için Online Sürü Takip Programı</p>
+                </div>
+            </div>
+        </div>
+
+    </section><!-- End Hero Section -->
+    <!-- Clients Section - Home Page -->
+    <section id="clients" class="clients">
+
+        <div class="container-fluid" data-aos="fade-up">
+
+            <div class="row gy-4">
+
+                <div class="col-xl-2 col-md-3 col-6 client-logo">
+                    <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+                </div><!-- End Client Item -->
+
+                <div class="col-xl-2 col-md-3 col-6 client-logo">
+                    <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+                </div><!-- End Client Item -->
+
+                <div class="col-xl-2 col-md-3 col-6 client-logo">
+                    <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+                </div><!-- End Client Item -->
+
+                <div class="col-xl-2 col-md-3 col-6 client-logo">
+                    <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
+                </div><!-- End Client Item -->
+
+                <div class="col-xl-2 col-md-3 col-6 client-logo">
+                    <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+                </div><!-- End Client Item -->
+
+                <div class="col-xl-2 col-md-3 col-6 client-logo">
+                    <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+                </div><!-- End Client Item -->
+
+            </div>
+
+        </div>
+
+    </section><!-- End Clients Section -->
+    <!-- About Section - Home Page -->
+    <partial name="About" />
+    <!-- End About Section -->
+    <!-- Stats Section - Home Page -->
+    <section id="stats" class="stats">
+        <img src="assets/img/stats-bg.jpg" alt="" data-aos="fade-in">
+        <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+            <div class="row gy-12">
+                <div class="col-lg-12 col-md-6">
+                    <div class="stats-item text-center w-100 h-100">
+                        <span data-purecounter-start="0" data-purecounter-end="@Model.BreedingRecordCount" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Sisteme kayıtlı Hayvan Sayısı</p>
+                    </div>
+                </div><!-- End Stats Item -->
+            </div>
+        </div>
+
+    </section><!-- End Stats Section -->
+    <!-- Services Section - Home Page -->
+    <partial name="Service" />
+    <!-- End Services Section -->
+    <partial name="Pricing" />
+    <!-- Pricing Section - Home Page -->
+    
+    <!-- End Pricing Section -->
+    <!-- Faq Section - Home Page -->
+    <partial name="Faq" />
+    <!-- End Faq Section -->
+    <!-- Team Section - Home Page -->
+    <partial name="Team" />
+    <!-- End Team Section -->
+    <!-- Call-to-action Section - Home Page -->
+    <section id="call-to-action" class="call-to-action">
+
+        <img src="assets/img/cta-bg.jpg" alt="">
+
+        <div class="container">
+            <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-xl-10">
+                    <div class="text-center">
+                        <h3>Hemen Başlayın</h3>
+                        <p>Hayvan şecere takibi, tedavi takibi ve alarmlar, çiftleşme takibi ve öneriler buna benzer bir çok özellikleri ile işinizi kolaylaştırıyoruz.</p>
+                        <a class="cta-btn" href="#">Hemen Başlayın</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section><!-- End Call-to-action Section -->
+    <!-- Contact Section - Home Page -->
+    <partial name="Contact" />
+    <!-- End Contact Section -->
+
+</main>
+

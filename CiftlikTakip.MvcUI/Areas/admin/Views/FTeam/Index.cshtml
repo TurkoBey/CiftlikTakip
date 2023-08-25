@@ -1,0 +1,68 @@
+﻿@using CiftlikTakip.MvcUI.Areas.admin.Models.Items;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<FTeamItem>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Ekip</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="~/Home">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Ekip Bilgileri</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    // Tabloya özel Düzenleme
+    function performEdit(response) {
+        $("#txtFullName").val(response.fullName);
+        $("#txtRole").val(response.role);
+        $("#txtTwitter").val(response.twitter);
+        $("#txtFacebook").val(response.facebook);
+        $("#txtInstagram").val(response.instagram);
+        $("#txtLinkedIn").val(response.linkedIn);
+        $("#txtDescription").val(response.description);
+    }
+    function tablo() {
+        $("#example2").DataTable({
+            language: {
+                url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/tr.json'
+            },
+            order: [
+                [2, 'asc']
+            ],
+            "columnDefs": [{
+                "targets": 2,
+                "orderable": false,
+            }],
+            "paging": true,
+            "lengthChange": false,
+            "searching": false,
+            "info": true,
+            "autoWidth": false,
+            "responsive": true,
+        });
+    }
+
+    function performShow(response, id) {
+        $("#spnFullName").text(response.fullName);
+        $("#spnRole").text(response.role);
+        $("#spnPhoto").attr("src", response.photoPath == null ? "/admin/dist/img/noimage.png" : "../../" + response.photoPath);
+        $("#spnTwitter").text(response.twitter);
+        $("#spnFacebook").text(response.facebook);
+        $("#spnInstagram").text(response.instagram);
+        $("#spnLinkedIn").text(response.linkedIn);
+        $("#spnDescription").text(response.description);
+    }
+</script>
+<partial name="AddOrUpdate" />
+<partial name="Table" />
+<partial name="View" />

@@ -1,0 +1,74 @@
+﻿<div class="card card-solid">
+	<div class="modal fade" id="modal-lg">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title">Yeni Görev Ekle</h4>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<form action="~/Home/Index" method="post">
+					<div class="card-body">
+						<div class="form-group">
+							<label for="txtPersonel_Adi_Soyadi">Personel Adı Soyadı <code>.Görev başlığı bilgisini giriniz.</code></label>
+							<input type="text" class="form-control rounded-0" id="txtPersonel_Adi_Soyadi" placeholder="Personel Adı Soyadı">
+						</div>
+						<div class="form-group">
+							<label for="reservationdate">Has. Baş. Tarihi<code>Hastalı Başlangıç Tarihi</code></label>
+							<div class="input-group date" id="reservationdate" data-target-input="nearest">
+								<input type="text" class="form-control rounded-0  datetimepicker-input" data-target="#reservationdate">
+								<div class="input-group-append rounded-0" data-target="#reservationdate" data-toggle="datetimepicker">
+									<div class="input-group-text rounded-0"><i class="fa fa-calendar"></i></div>
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="reservationdateh">Ted. Baş. Tarihi<code>Tedavi Başlangıç Tarihi</code></label>
+							<div class="input-group date" id="reservationdateh" data-target-input="nearest">
+								<input type="text" class="form-control rounded-0  datetimepicker-input" data-target="#reservationdateh">
+								<div class="input-group-append rounded-0" data-target="#reservationdateh" data-toggle="datetimepicker">
+									<div class="input-group-text rounded-0"><i class="fa fa-calendar"></i></div>
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="reservationdatehc">Ted. Bit. Tarihi<code>Tedavi Bitiş Tarihi</code></label>
+							<div class="input-group date" id="reservationdatehc" data-target-input="nearest">
+								<input type="text" class="form-control rounded-0  datetimepicker-input" data-target="#reservationdatehc">
+								<div class="input-group-append rounded-0" data-target="#reservationdatehc" data-toggle="datetimepicker">
+									<div class="input-group-text rounded-0"><i class="fa fa-calendar"></i></div>
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="reservationdatehd">Gözlem Tarihi<code>Gözlem Tarihi</code></label>
+							<div class="input-group date" id="reservationdatehd" data-target-input="nearest">
+								<input type="text" class="form-control rounded-0  datetimepicker-input" data-target="#reservationdatehd">
+								<div class="input-group-append rounded-0" data-target="#reservationdatehd" data-toggle="datetimepicker">
+									<div class="input-group-text rounded-0"><i class="fa fa-calendar"></i></div>
+								</div>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="txtGerekli_Doz">Gerekli Doz <code>.</code></label>
+							<input type="text" class="form-control rounded-0" id="txtGerekli_Doz" placeholder="Gerekli Doz">
+						</div>
+						<div class="form-group">
+							<label for="txtozel_Doz">Özel Doz<code>Özel Doz</code></label>
+							<input type="text" class="form-control rounded-0" id="txtozel_Doz" placeholder="Özel Doz">
+						</div>
+						<div class="form-group">
+							<label for="txtAciklama">Açıklama <code>Açıklama</code></label>
+							<textarea type="text" class="form-control rounded-0" id="txtAciklama" placeholder="Açıklama" style="height: 150px;"></textarea>
+						</div>
+						<div class="modal-footer justify-content-between">
+							<button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+							<button type="button" id="btnSave" class="btn btn-primary">Kaydet</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>

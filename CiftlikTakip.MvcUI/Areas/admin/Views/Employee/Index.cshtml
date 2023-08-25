@@ -1,0 +1,67 @@
+﻿@using CiftlikTakip.MvcUI.Areas.admin.Models.Items;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<EmployeeItem>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Personel</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="~/Home">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Personel Bilgileri</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    // Tabloya özel Düzenleme
+    function performEdit(response) {
+        $("#txtTCKN").val(response.tckn);
+        $("#txtFirstName").val(response.firstName);
+        $("#txtLastName").val(response.lastName);
+        $("#txtMobilePhone").val(response.mobilePhone);
+        $("#reservationdate").val(response.startDate);
+        $("#txtDescription").val(response.mobilePhone);
+    }
+    function tablo() {
+        $("#example2").DataTable({
+            language: {
+                url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/tr.json'
+            },
+            order: [
+                [3, 'asc']
+            ],
+            "columnDefs": [{
+                "targets": 3,
+                "orderable": false,
+            }],
+            "paging": true,
+            "lengthChange": false,
+            "searching": false,
+            "info": true,
+            "autoWidth": false,
+            "responsive": true,
+        });
+    }
+
+
+    function performShow(response, id) {
+        $("#spnTCKN").text(response.tckn);
+        $("#spnPhoto").attr("src", response.image == null ? "/admin/dist/img/noimage.png" : "../../" + response.image);
+        $("#spnFirstName").text(response.firstName);
+        $("#spnLastName").text(response.lastName);
+        $("#spnDescription").text(response.description);
+        $("#spnMobilePhone").text(response.mobilePhone);
+        $("#spnStartDate").text(moment(response.startDate).format("DD.MM.YYYY HH:mm"));
+    }
+</script>
+<partial name="AddOrUpdate" />
+<partial name="Table" />
+<partial name="View" />

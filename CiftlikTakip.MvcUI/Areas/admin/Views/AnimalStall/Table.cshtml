@@ -1,0 +1,64 @@
+﻿<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Padok Detayları</h3>
+                    <button type="button" class="btn btn-success float-right" data-toggle="modal" data-target="#modal-lg">
+                        Padok Ekle
+                    </button>
+                </div>
+                <div class="card-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Title</th>
+                                <th>Description</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null)
+                            {
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.Title</td>
+                                        <td class="align-middle">@(item.Description.Length > 20 ? item.Description.Substring(0, 20) + "..." : item.Description)</td>
+                                        <td class="project-actions text-right align-middle">
+                                            <div style="text-align: center;">
+                                                <button type="button" class="btn btn-success btn-xs btnShow" url="/admin/AnimalStall/View/" vId="@item.Id">
+                                                    <i class="fa fa-eye">
+                                                    </i>
+                                                    Göster
+                                                </button>
+                                                <button type="button" class="btn btn-info btn-xs btnEdit" url="/admin/AnimalStall/Edit/" vId="@item.Id">
+                                                    <i class="fas fa-pencil-alt">
+                                                    </i>
+                                                    Düzenle
+                                                </button>
+                                                <button type="button" class="btn btn-danger btn-xs btnDelete" url="/admin/AnimalStall/Delete/" vId="@item.Id" itemTitle="@item.Title">
+                                                    <i class="fas fa-trash">
+                                                    </i>
+                                                    Kaldır
+                                                </button>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>Title</th>
+                                <th>Description</th>
+                                <th>Açıklama</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,705 @@
+2023-08-12 10:50:27.919 +03:00 [DBG] Hosting starting
+2023-08-12 10:50:28.113 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-12 10:50:28.123 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-12 10:50:28.127 +03:00 [INF] Hosting environment: Development
+2023-08-12 10:50:28.130 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-12 10:50:28.131 +03:00 [DBG] Hosting started
+2023-08-12 10:50:28.661 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-12 10:50:29.179 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Sat, 12 Aug 2023 07:50:28 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 10:50:29.346 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 10:50:29.673 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Sat, 12 Aug 2023 07:50:29 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:47:38.196 +03:00 [DBG] Hosting starting
+2023-08-12 12:47:38.389 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-12 12:47:38.400 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-12 12:47:38.404 +03:00 [INF] Hosting environment: Development
+2023-08-12 12:47:38.406 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-12 12:47:38.407 +03:00 [DBG] Hosting started
+2023-08-12 12:47:38.889 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-12 12:47:39.296 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Sat, 12 Aug 2023 09:47:38 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:47:39.422 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 12:47:39.706 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Sat, 12 Aug 2023 09:47:39 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:47:43.260 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication/logIn
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:47:47.885 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:47:47 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:47:48.465 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:47:48.692 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:47:48 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:47:58.249 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Companies
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:47:58.457 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:47:57 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:48:05.591 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Employees
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:48:05.754 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:48:05 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:51:54.493 +03:00 [DBG] Hosting starting
+2023-08-12 12:51:54.700 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-12 12:51:54.710 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-12 12:51:54.713 +03:00 [INF] Hosting environment: Development
+2023-08-12 12:51:54.715 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-12 12:51:54.717 +03:00 [DBG] Hosting started
+2023-08-12 12:51:55.514 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-12 12:51:55.910 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Sat, 12 Aug 2023 09:51:55 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:51:56.067 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 12:51:56.334 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Sat, 12 Aug 2023 09:51:55 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:51:57.676 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication/logIn
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:52:02.365 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:52:01 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:52:02.962 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:52:03.217 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:52:02 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:53:56.066 +03:00 [DBG] Hosting starting
+2023-08-12 12:53:56.255 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-12 12:53:56.264 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-12 12:53:56.268 +03:00 [INF] Hosting environment: Development
+2023-08-12 12:53:56.270 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-12 12:53:56.271 +03:00 [DBG] Hosting started
+2023-08-12 12:53:56.948 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-12 12:53:57.467 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Sat, 12 Aug 2023 09:53:56 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:53:57.621 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 12:53:57.837 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Sat, 12 Aug 2023 09:53:57 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:54:01.206 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication/logIn
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:54:05.929 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:54:05 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:54:06.520 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:54:06.756 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:54:06 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:56:33.257 +03:00 [DBG] Hosting starting
+2023-08-12 12:56:33.439 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-12 12:56:33.449 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-12 12:56:33.452 +03:00 [INF] Hosting environment: Development
+2023-08-12 12:56:33.455 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-12 12:56:33.456 +03:00 [DBG] Hosting started
+2023-08-12 12:56:33.912 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-12 12:56:34.307 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Sat, 12 Aug 2023 09:56:33 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:56:34.442 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 12:56:34.683 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Sat, 12 Aug 2023 09:56:34 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:57:03.084 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication
+Accept: application/json
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 12:57:06.011 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:57:05 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:57:10.324 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication/logIn
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:57:12.324 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:57:11 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:57:13.134 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:57:13.328 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:57:12 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:58:12.057 +03:00 [DBG] Hosting starting
+2023-08-12 12:58:12.241 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-12 12:58:12.251 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-12 12:58:12.255 +03:00 [INF] Hosting environment: Development
+2023-08-12 12:58:12.258 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-12 12:58:12.259 +03:00 [DBG] Hosting started
+2023-08-12 12:58:13.150 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-12 12:58:13.556 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Sat, 12 Aug 2023 09:58:13 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:58:13.710 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 12:58:13.921 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Sat, 12 Aug 2023 09:58:13 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:58:15.999 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication/logIn
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:58:20.441 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:58:20 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:58:21.153 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:58:21.403 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:58:21 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 12:58:23.259 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 12:58:23.438 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 09:58:23 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:02:51.853 +03:00 [DBG] Hosting starting
+2023-08-12 13:02:52.035 +03:00 [INF] Now listening on: http://localhost:5162
+2023-08-12 13:02:52.044 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-12 13:02:52.048 +03:00 [INF] Hosting environment: Development
+2023-08-12 13:02:52.050 +03:00 [INF] Content root path: C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.WebAPI\
+2023-08-12 13:02:52.051 +03:00 [DBG] Hosting started
+2023-08-12 13:02:52.531 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-User: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-08-12 13:02:52.944 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Sat, 12 Aug 2023 10:02:51 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:02:53.079 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Connection: keep-alive
+Host: localhost:5162
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203
+Accept-Encoding: gzip, deflate, br
+Accept-Language: tr,ar;q=0.9,en;q=0.8
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+Sec-Fetch-Site: [Redacted]
+Sec-Fetch-Mode: [Redacted]
+Sec-Fetch-Dest: [Redacted]
+2023-08-12 13:02:53.341 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Sat, 12 Aug 2023 10:02:52 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:15:26.674 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication/logIn
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 13:15:31.251 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 10:15:30 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:15:32.172 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/WebsiteInfos/a89b92f0-c38d-4b6a-8cc2-2d8753495080
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 13:15:32.406 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 10:15:31 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:15:36.534 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 13:15:36.721 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 10:15:36 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:18:31.230 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 13:18:31.354 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 10:18:31 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:18:58.534 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 13:18:58.651 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 10:18:58 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+2023-08-12 13:19:18.151 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /api/Authentication
+Host: localhost:5162
+traceparent: [Redacted]
+2023-08-12 13:19:18.259 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Aug 2023 10:19:17 GMT
+Server: Kestrel
+Transfer-Encoding: chunked

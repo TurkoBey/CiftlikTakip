@@ -1,0 +1,39 @@
+﻿<section id="faq" class="faq">
+    <div class="container">
+        <div class="row gy-4">
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="content px-xl-5">
+                    <h3><span>Sıkça Sorulan </span><strong>Sorular</strong></h3>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
+
+                <div class="faq-container">
+                    @{
+                        int itemCount = 1; // Başlangıç sayacı değeri
+                    }
+                    @if (Model.FFaqItems !=null)
+                    {
+                        @foreach (var item in Model.FFaqItems)
+                        {
+                            //<div class="faq-item faq-active">
+                            <div class="faq-item @(itemCount == 1 ? "faq-active" : "")">
+                                <h3><span class="num">@itemCount.</span> <span>@item.Question</span></h3>
+                                <div class="faq-content">
+                                    <p>@item.Answer</p>
+                                </div>
+                                <i class="faq-toggle bi bi-chevron-right"></i>
+                            </div>
+                            itemCount++;
+                        }
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

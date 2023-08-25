@@ -1,0 +1,58 @@
+﻿<div class="card card-solid">
+    <div class="modal fade" id="modal-lg">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Yeni Ekip Kartı</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form>
+                    <div class="card-body">
+                        <input type="hidden" id="eId" />
+                        <div class="form-group">
+                            <label for="txtFullName">Başlık <code>.FullName bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtFullName" placeholder="FullName bilgisi giriniz.">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtRole">Role <code>.Role bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtRole" placeholder="Role bilgisi giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtTwitter">Twitter <code>.Twitter kullanıcı adı giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtTwitter" placeholder="Twitter kullanıcı adı bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtFacebook">Facebook <code>.Facebook kullanıcı adı giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtFacebook" placeholder="Facebook kullanıcı adı bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtInstagram">Instagram <code>.Instagram kullanıcı adı giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtInstagram" placeholder="Instagram kullanıcı adı bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtLinkedIn">LinkedIn <code>.LinkedIn kullanıcı adı giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtLinkedIn" placeholder="LinkedIn kullanıcı adı bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="photo">Fotoğraf Dosyası</label>
+                            <div class="input-group">
+                                <input type="file" class="custom-file-input" id="photo" placeholder="Lütfen bir resim dosyası giriniz." required>
+                                <label class="custom-file-label" for="photo">Dosya Seçiniz</label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtDescription">Açıklama <code> Personel hakkında notlar giriniz.</code></label>
+                            <textarea type="text" class="form-control rounded-0" id="txtDescription" placeholder="Açıklama" style="height: 150px;"></textarea>
+                        </div>
+                        <div class="modal-footer justify-content-between">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+                            <button type="button" id="btnNewTeamUser" class="btn btn-primary">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

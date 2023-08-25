@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Çiftlik Sürü Takip | Giriş Paneli</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link rel="stylesheet" href="~/admin/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="~/admin/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+    <link rel="stylesheet" href="~/admin/dist/css/adminlte.min.css">
+    <link rel="stylesheet" href="~/admin/dist/css/style.css">
+    <link rel="stylesheet" href="~/admin/plugins/toastr/toastr.min.css">
+    <link rel="stylesheet" href="~/admin/plugins/sweetalert2/sweetalert2.min.css">
+</head>
+<body class="hold-transition login-page">
+    <div class="login-box">
+        <div class="login-logo">
+            <a href="~/admin"><b>ÇitflikSürü</b>TAKİP</a>
+        </div>
+        <div class="card">
+            <div class="card-body login-card-body">
+                <p class="login-box-msg">Oturum Açmak için giriş yapınız..</p>
+                <form id="quickForm">
+                    <div class="input-group mb-3">
+                        <input id="email" type="email" class="form-control rounded-0" placeholder="E-Posta Adresi">
+                        <div class="input-group-append">
+                            <div class="input-group-text rounded-0">
+                                <span class="fas fa-envelope"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        <input id="password" type="password" class="form-control rounded-0" placeholder="Parola">
+                        <div class="input-group-append">
+                            <div class="input-group-text rounded-0">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="icheck-primary rounded-0">
+                                <input type="checkbox" id="remember">
+                                <label for="remember">
+                                    Beni Hatırla!
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-12 mb-3 rounded-0">
+                            <a class="float-right" href="forgot-password.html">Şifremi Unuttum?</a>
+                        </div>
+                        <div class="col-12">
+                            <button id="btnLogIn" type="button" class="btn btn-primary btn-block rounded-0">Giriş yap</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <blockquote class="quote-info">
+                <h5>Demo Giriş Bilgileri</h5>
+                <p><code class="highlighter-rouge">ePosta : </code> ciftliktakip@ciftliksurutakip.com <br> <code class="highlighter-rouge">Parola : </code>123456</p>
+            </blockquote>
+        </div>
+    </div>
+    <script src="~/admin/plugins/jquery/jquery.min.js"></script>
+    <script src="~/admin/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/admin/dist/js/adminlte.min.js"></script>
+    <script src="~/admin/plugins/toastr/toastr.min.js"></script>
+    <script src="~/admin/plugins/sweetalert2/sweetalert2.all.min.js"></script>
+    <script src="~/admin/dist/js/style.js"></script>
+</body>
+</html>

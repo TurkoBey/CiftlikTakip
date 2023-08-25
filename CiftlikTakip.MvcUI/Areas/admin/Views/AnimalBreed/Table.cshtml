@@ -1,0 +1,66 @@
+﻿<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">İletişim Bilgileri</h3>
+                    <button type="button" class="btn btn-success float-right" data-toggle="modal" data-target="#modal-lg">
+                        Tedarikçi Ekle
+                    </button>
+                </div>
+                <div class="card-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Başlık</th>
+                                <th>Grup Ad</th>
+                                <th>Açıklama</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody style="text-align: center;">
+                            @if (Model.animalBreedItems != null)
+                            {
+                                @foreach (var item in Model.animalBreedItems)
+                                {
+                                    <tr>
+                                        <td class="align-middle">@item.Title</td>
+                                        <td class="align-middle">@item.GroupName</td>
+                                        <td class="align-middle">@(item.Description.Length > 20 ? item.Description.Substring(0, 20) + "..." : item.Description)</td>
+                                        <td class="project-actions text-right align-middle">
+                                            <div style="text-align: center;">
+                                                <button type="button" class="btn btn-success btn-xs btnShow" url="/admin/AnimalBreed/Edit/" vId="@item.Id">
+                                                    <i class="fa fa-eye">
+                                                    </i>
+                                                    Göster
+                                                </button>
+                                                <button type="button" class="btn btn-info btn-xs btnEdit" url="/admin/AnimalBreed/Edit/" vId="@item.Id">
+                                                    <i class="fas fa-pencil-alt">
+                                                    </i>
+                                                    Düzenle
+                                                </button>
+                                                <button type="button" class="btn btn-danger btn-xs btnDelete" url="/admin/AnimalBreed/Delete/" vId="@item.Id" itemTitle="@item.Title">
+                                                    <i class="fas fa-trash">
+                                                    </i>
+                                                    Kaldır
+                                                </button>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>Başlık</th>
+                                <th>Grup Ad</th>
+                                <th>Açıklama</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

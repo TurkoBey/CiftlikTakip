@@ -1,0 +1,75 @@
+﻿@using CiftlikTakip.MvcUI.Areas.admin.Models.Items;
+@model WebsiteInfoItem
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Ayarlar</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="~/Home">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Ayarlar</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Ayarlar</h3>
+                </div>
+                <div class="card-body">
+                    <h4>Site Detayları</h4>
+                    <form>
+                        <input type="hidden" id="eId" value="@ViewBag.Id" />
+                        <div class="form-group">
+                            <label for="txtSiteBaslik">Site Başlık : <code>Sitenin Title Kısmı</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtSiteBaslik" placeholder="Site Başlık" value="@ViewBag.SiteName">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtCopyright">Copyright :</label>
+                            <input type="text" class="form-control rounded-0" id="txtCopyright" placeholder="Copyright" value="@ViewBag.Copyright">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtgsm">Gsm :</label>
+                            <input type="text" class="form-control rounded-0" id="txtgsm" placeholder="Gsm Numarası" value="@ViewBag.MobileNumber">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtSabitNo">Sabit No :</label>
+                            <input type="text" class="form-control rounded-0" id="txtSabitNo" placeholder="Sabit Numara" value="@ViewBag.PhoneNumber">
+                        </div>
+                        <div class="form-group">
+                            <label for="txteMail">E-Posta Adresi :</label>
+                            <input type="email" class="form-control rounded-0" id="txteMail" placeholder="E-Posta Adresi" value="@ViewBag.Email">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtAdres">Adress :</label>
+                            <input type="text" class="form-control rounded-0" id="txtAdres" placeholder="Adres" value="@ViewBag.Address">
+                        </div>
+                        <h4>SEO - Google Bilgiler</h4>
+                        <div class="form-group">
+                            <label for="txtMapLink">Google Maps <code>Google Maps Embed Linki</code></label>
+                            <textarea type="text" class="form-control rounded-0" id="txtMapLink" placeholder="Google Map Embed Linki" style="height: 150px;">@ViewBag.GoogleMapsLink</textarea>
+                        </div>
+                        <div class="form-group">
+                            <iframe src="@ViewBag.GoogleMapsLink" width="1550" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                        <div class="modal-footer justify-content-between">
+                            <button type="button" id="btnWebInfoSave" class="btn btn-block btn-primary btn-flat">Kaydet</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

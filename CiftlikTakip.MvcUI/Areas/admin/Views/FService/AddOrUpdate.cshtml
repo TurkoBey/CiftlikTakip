@@ -1,0 +1,35 @@
+﻿<div class="card card-solid">
+    <div class="modal fade" id="modal-lg">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Yeni Hizmet Kartı</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form>
+                    <div class="card-body">
+                        <input type="hidden" id="eId" />
+                        <div class="form-group">
+                            <label for="txtbaslik">Başlık <code>.İletişim başlığı bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtbaslik" placeholder="Görev başlığı giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtikon">İkon <code>.İkon başlığı bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtikon" placeholder="İkon başlığı giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtAciklama">Açıklama <code>.Firma hakkında notlar giriniz.</code></label>
+                            <textarea type="text" class="form-control rounded-0" id="txtAciklama" placeholder="Açıklama" style="height: 150px;"></textarea>
+                        </div>
+                        <div class="modal-footer justify-content-between">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+                            <button type="button" id="btnNewService" class="btn btn-primary">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

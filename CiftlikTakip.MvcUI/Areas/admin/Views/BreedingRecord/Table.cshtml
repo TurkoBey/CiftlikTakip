@@ -1,0 +1,80 @@
+﻿<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">BüyükBaş Bilgileri</h3>
+                    <button type="button" class="btn btn-success float-right" data-toggle="modal" data-target="#modal-lg">
+                        BüyükBaş Ekle
+                    </button>
+                </div>
+                <div class="card-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>AnimalCode</th>
+                                <th>BreedingName</th>
+                                @* <th>BreedingStatus</th>
+                                <th>BreedingDate</th>
+                                <th>ExpectedBirthDate</th>
+                                <th>BreedingStatus</th>
+                                <th>AnimalTypeName</th> *@
+                                <th>Description</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.AnimalCode</td>
+                                    <td>@item.BreedingName</td>
+                                   @*  <td>@item.BreedingStatus</td>
+                                    <td>@item.BreedingDate</td>
+                                    <td>@item.ExpectedBirthDate</td>
+                                    <td>@item.BreedingStatus</td>
+                                    <td>@item.AnimalTypeName</td *@>
+                                    <td>@item.Description</td>
+                                    <td class="project-actions text-right align-middle">
+                                        <div style="text-align: center;">
+                                            <button type="button" class="btn btn-success btn-xs btnShow" url="/admin/BreedingRecord/View/" vId="@item.Id">
+                                                <i class="fa fa-eye">
+                                                </i>
+                                                Göster
+                                            </button>
+                                            <button type="button" class="btn btn-info btn-xs btnEdit" url="/admin/BreedingRecord/Edit/" vId="@item.Id">
+                                                <i class="fas fa-pencil-alt">
+                                                </i>
+                                                Düzenle
+                                            </button>
+                                            <button type="button" class="btn btn-danger btn-xs btnDelete" url="/admin/BreedingRecord/Delete/" vId="@item.Id" itemTitle="@item.AnimalCode">
+                                                <i class="fas fa-trash">
+                                                </i>
+                                                Kaldır
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>AnimalCode</th>
+                                <th>BreedingName</th>
+                               @*  <th>BreedingStatus</th>
+                                <th>BreedingDate</th>
+                                <th>ExpectedBirthDate</th>
+                                <th>BreedingStatus</th>
+                                <th>AnimalTypeName</th> *@
+                                <th>Description</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

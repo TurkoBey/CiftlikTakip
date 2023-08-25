@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Dtos\AnimalSpecie\**" />
+    <EmbeddedResource Remove="Dtos\AnimalSpecie\**" />
+    <None Remove="Dtos\AnimalSpecie\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Dtos\" />
+    <None Remove="Dtos\AnimalBreed\" />
+    <None Remove="Dtos\AnimalStall\" />
+    <None Remove="Dtos\AnimalSpecie\" />
+    <None Remove="Dtos\AnimalTreatment\" />
+    <None Remove="Dtos\Company\" />
+    <None Remove="Dtos\Employee\" />
+    <None Remove="Dtos\Financial\" />
+    <None Remove="Dtos\InventoryFeedStock\" />
+    <None Remove="Dtos\InventoryStock\" />
+    <None Remove="Dtos\Medication\" />
+    <None Remove="Dtos\MedicationDetail\" />
+    <None Remove="Dtos\Setting\" />
+    <None Remove="Dtos\User\" />
+    <None Remove="Dtos\Vaccination\" />
+    <None Remove="Dtos\VaccinationDetail\" />
+  </ItemGroup>
+</Project>

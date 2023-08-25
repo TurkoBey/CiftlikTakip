@@ -1,0 +1,47 @@
+﻿<div class="card card-solid">
+    <div class="modal fade" id="modal-lg">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Yeni Tedarikçi Ekle</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form action="~/Home/Index" method="post">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="txtbaslik">Firma Adı <code>* Firma ad bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtbaslik" placeholder="Firma adı giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtadsoyad">Adı Soyadı <code>* Adı soyadı bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtadsoyad" placeholder="Adı soyadı giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txteposta">E-Posta <code>* Adı soyadı bilgisini giriniz.</code></label>
+                            <input type="email" class="form-control rounded-0" id="txteposta" placeholder="E-Posta adresi giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtgsm">GSM <code>* Cep numara bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtgsm" placeholder="Cep telefonu numarası giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtsabitno">Sabit No <code>* Sabit numara bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtsabitno" placeholder="Sabit telefonu numarası giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtAdres">Adres <code>.Firma hakkında notlar giriniz.</code></label>
+                            <textarea type="text" class="form-control rounded-0" id="txtAdres" placeholder="Adres bilgisin" style="height: 150px;"></textarea>
+                        </div>
+
+                        <div class="modal-footer justify-content-between">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+                            <button type="button" id="btnSave" class="btn btn-primary">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

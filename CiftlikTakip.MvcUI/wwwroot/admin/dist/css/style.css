@@ -1,0 +1,10 @@
+﻿.login-page {
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#btnExit {
+    color: #e73232;
+    font-weight: bold;
+}

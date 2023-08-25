@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CiftlikTakip.Model", "CiftlikTakip.Model\CiftlikTakip.Model.csproj", "{6A78A392-000B-49B9-83F7-30ABE7B91016}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2000CE17-1A96-48CC-9568-53FF0AB090A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CiftlikTakip.DataAccess", "CiftlikTakip.DataAccess\CiftlikTakip.DataAccess.csproj", "{F90873C9-EE02-4031-8BFE-6F50CE674589}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CiftlikTakip.Business", "CiftlikTakip.Business\CiftlikTakip.Business.csproj", "{77AB8CE0-A497-471B-9100-81C6497C4889}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CiftlikTakip.WebAPI", "CiftlikTakip.WebAPI\CiftlikTakip.WebAPI.csproj", "{DEC37E77-BD6C-465D-8F6E-815039AB37E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiftlikTakip.MvcUI", "CiftlikTakip.MvcUI\CiftlikTakip.MvcUI.csproj", "{1A1CF04C-3647-4C2C-92BE-29F86CE5EE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A78A392-000B-49B9-83F7-30ABE7B91016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A78A392-000B-49B9-83F7-30ABE7B91016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A78A392-000B-49B9-83F7-30ABE7B91016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A78A392-000B-49B9-83F7-30ABE7B91016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2000CE17-1A96-48CC-9568-53FF0AB090A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2000CE17-1A96-48CC-9568-53FF0AB090A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2000CE17-1A96-48CC-9568-53FF0AB090A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2000CE17-1A96-48CC-9568-53FF0AB090A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90873C9-EE02-4031-8BFE-6F50CE674589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90873C9-EE02-4031-8BFE-6F50CE674589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90873C9-EE02-4031-8BFE-6F50CE674589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90873C9-EE02-4031-8BFE-6F50CE674589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AB8CE0-A497-471B-9100-81C6497C4889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AB8CE0-A497-471B-9100-81C6497C4889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AB8CE0-A497-471B-9100-81C6497C4889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AB8CE0-A497-471B-9100-81C6497C4889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC37E77-BD6C-465D-8F6E-815039AB37E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC37E77-BD6C-465D-8F6E-815039AB37E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC37E77-BD6C-465D-8F6E-815039AB37E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC37E77-BD6C-465D-8F6E-815039AB37E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1CF04C-3647-4C2C-92BE-29F86CE5EE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1CF04C-3647-4C2C-92BE-29F86CE5EE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1CF04C-3647-4C2C-92BE-29F86CE5EE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1CF04C-3647-4C2C-92BE-29F86CE5EE69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFFDBA03-038D-4204-9209-AB9EC504E18B}
+	EndGlobalSection
+EndGlobal

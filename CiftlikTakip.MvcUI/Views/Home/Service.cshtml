@@ -1,0 +1,28 @@
+﻿<section id="services" class="services">
+
+    <!--  Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Hizmetlerimiz</h2>
+        <p>Programın özelikleri</p>
+    </div><!-- End Section Title -->
+    <div class="container">
+        <div class="row gy-4">
+            @if (Model.FServiceItems != null)
+            {
+                @foreach (var item in Model.FServiceItems)
+                {
+                    <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100">
+                        <div class="service-item d-flex">
+                            <div class="icon flex-shrink-0"><i class="@item.Icon"></i></div>
+                            <div>
+                                <h4 class="title"><a class="stretched-link">@item.Title</a></h4>
+                                <p class="description">@item.Description</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</section>
+

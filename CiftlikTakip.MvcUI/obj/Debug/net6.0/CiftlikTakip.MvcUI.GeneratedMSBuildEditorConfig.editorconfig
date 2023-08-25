@@ -1,0 +1,249 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CiftlikTakip.MvcUI
+build_property.RootNamespace = CiftlikTakip.MvcUI
+build_property.ProjectDir = C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.MvcUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.MvcUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalBreed/AddOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsQnJlZWRcQWRkT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalBreed/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsQnJlZWRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalBreed/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsQnJlZWRcVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalBreed/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsQnJlZWRcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalStall/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsU3RhbGxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalStall/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsU3RhbGxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalStall/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsU3RhbGxcVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalStall/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsU3RhbGxcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalTreatment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsVHJlYXRtZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalTreatment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsVHJlYXRtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/AnimalTreatment/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQW5pbWFsVHJlYXRtZW50XFRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Authentication/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Authentication/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Authentication/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cTG9nSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Authentication/NewUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cTmV3VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Authentication/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Authentication/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/BreedingRecord/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQnJlZWRpbmdSZWNvcmRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/BreedingRecord/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQnJlZWRpbmdSZWNvcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/BreedingRecord/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQnJlZWRpbmdSZWNvcmRcVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/BreedingRecord/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQnJlZWRpbmdSZWNvcmRcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Company/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Company/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Company/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ29tcGFueVxUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Employee/AddOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRW1wbG95ZWVcQWRkT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Employee/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRW1wbG95ZWVcVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Employee/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRW1wbG95ZWVcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRkNvbnRhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FContact/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRkNvbnRhY3RcVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FContact/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRkNvbnRhY3RcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FFaq/AddOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRkZhcVxBZGRPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FFaq/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRkZhcVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FFaq/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRkZhcVxUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FFaq/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRkZhcVxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FService/AddOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlNlcnZpY2VcQWRkT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlNlcnZpY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FService/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlNlcnZpY2VcVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FService/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlNlcnZpY2VcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FTeam/AddOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlRlYW1cQWRkT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FTeam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlRlYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FTeam/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlRlYW1cVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/FTeam/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRlRlYW1cVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Shared/Components/SideBar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2lkZUJhclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Areas/admin/Views/WebsiteInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcV2Vic2l0ZUluZm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Pricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmljaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Home/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KALE/Desktop/BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN/KaynakKod/CiftlikTakip/CiftlikTakip.MvcUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

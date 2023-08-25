@@ -1,0 +1,15 @@
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Release\net6.0\CiftlikTakip.Model.deps.json
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Release\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Release\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Release\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\bin\Release\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.AssemblyInfo.cs
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.csproj.CopyComplete
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\refint\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.Model\obj\Release\net6.0\ref\CiftlikTakip.Model.dll

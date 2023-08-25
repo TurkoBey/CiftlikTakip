@@ -1,0 +1,63 @@
+@using CiftlikTakip.MvcUI.Areas.admin.Models.ViewModels;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model AnimalView
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Irklar</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="~/Home">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Tedarikçi Bilgileri</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Tabloya özel Ekle veya Güncelleme İşlemleri
+    function performAddOrUpdate() {
+        var id = $("#eId").val();
+        var txtbaslik = $("#txtbaslik").val();
+        var txtslcgrup = $("#slcgrup").val();
+        var txtAciklama = $("#txtAciklama").val();
+
+        var formData = new FormData();
+        if (id !== null && id !== undefined && id !== "") {
+            formData.append("Id", id);
+        }
+        formData.append("Title", txtbaslik);
+        formData.append("GroupName", txtslcgrup);
+        formData.append("Description", txtAciklama);
+
+        var title = formData.get("VaccinationName");
+        var url = "/admin/AnimalBreed/AddOrUpdate";
+        performSave(formData, url, title);
+    }
+    // Tabloya özel Düzenleme
+    function performEdit(response, id) {
+        $("#txtbaslik").val(response.title);
+        $("#txtdoz").val(response.groupName);
+        $("#txtAciklama").val(response.description);
+    }
+    function tablo() {
+
+    }
+    function performShow(response, id) {
+        $("#spnTitle").text(response.title);
+        $("#spngroup").text(response.groupName);
+        $("#spnDescription").text(response.description);
+    }
+</script>
+<partial name="AddOrUpdate" />
+<partial name="Table" />
+<partial name="View" />
+
+

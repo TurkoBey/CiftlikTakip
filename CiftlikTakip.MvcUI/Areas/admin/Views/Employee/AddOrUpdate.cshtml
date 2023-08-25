@@ -1,0 +1,59 @@
+﻿<div class="card card-solid">
+    <div class="modal fade" id="modal-lg">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Yeni Personel Kartı</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form>
+                    <div class="card-body">
+                        <input type="hidden" id="eId" />
+                        <div class="form-group">
+                            <label for="photo">Fotoğraf Dosyası</label>
+                            <div class="input-group">
+                                <input type="file" class="custom-file-input" id="photo" placeholder="Lütfen bir resim dosyası giriniz." required>
+                                <label class="custom-file-label" for="photo">Dosya Seçiniz</label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="txtTCKN">TCKN <code>.Personel TCKN bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtTCKN" placeholder="TCKN bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtFirstName">FirstName <code>.Personel Adı bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtFirstName" placeholder="Adı bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtLastName">LastName <code>.Personel soyadı bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtLastName" placeholder="Soyadı bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="txtMobilePhone">MobilePhone <code>.MobilePhone bilgisini giriniz.</code></label>
+                            <input type="text" class="form-control rounded-0" id="txtMobilePhone" placeholder="MobilePhone bilgisini giriniz...">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleSelectRounded0">Baş. Tarihi <code>Personel işe giriş tarihini giriniz.</code></label>
+                            <div class="input-group date" id="reservationdate" data-target-input="nearest">
+                                <input type="text" class="form-control rounded-0  datetimepicker-input" data-target="#reservationdate">
+                                <div class="input-group-append rounded-0" data-target="#reservationdate" data-toggle="datetimepicker">
+                                    <div class="input-group-text rounded-0"><i class="fa fa-calendar"></i></div>
+                                </div>
+                            </div>
+                        </div>                        
+                        <div class="form-group">
+                            <label for="txtDescription">Açıklama <code> Personel hakkında notlar giriniz.</code></label>
+                            <textarea type="text" class="form-control rounded-0" id="txtDescription" placeholder="Açıklama" style="height: 150px;"></textarea>
+                        </div>
+                        <div class="modal-footer justify-content-between">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+                            <button type="button" id="btnNewEmployee" class="btn btn-primary">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

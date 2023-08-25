@@ -1,0 +1,75 @@
+﻿<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Tedavi Detayları</h3>
+                    <button type="button" class="btn btn-success float-right" data-toggle="modal" data-target="#modal-lg">
+                        Tedavi Ekle
+                    </button>
+                </div>
+                <div class="card-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Personel Adı Soyadı</th>
+                                <th>Has. Baş. Tarihi</th>
+                                <th>Ted. Baş. Tarihi</th>
+                                <th>Ted. Bit. Tarihi</th>
+                                <th>Gözlem Tarihi</th>
+                                <th>Gerekli Doz</th>
+                                <th>Özel Doz</th>
+                                <th>Açıklama</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null)
+                            {
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.EmployeeName</td>
+                                        <td>@item.IdentificationDate</td>
+                                        <td>@item.StartDate</td>
+                                        <td>@item.EndDate</td>
+                                        <td>@item.MonitoringDate</td>
+                                        <td>@item.RegularDose</td>
+                                        <td>@item.SpecialDose</td>
+                                        <td>@item.Description</td>
+                                        <td class="project-actions text-right">
+                                            <a class="btn btn-info btn-xs" href="/TaskManagement/Edit/@item.Id">
+                                                <i class="fas fa-pencil-alt">
+                                                </i>
+                                                Düzenle
+                                            </a>
+                                            <a class="btn btn-danger btn-xs btnDelete" href="#" itemid="@item.Id">
+                                                <i class="fas fa-trash">
+                                                </i>
+                                                Kaldır
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th>Personel Adı Soyadı</th>
+                                <th>Has. Baş. Tarihi</th>
+                                <th>Ted. Baş. Tarihi</th>
+                                <th>Ted. Bit. Tarihi</th>
+                                <th>Gözlem Tarihi</th>
+                                <th>Gerekli Doz</th>
+                                <th>Özel Doz</th>
+                                <th>Açıklama</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

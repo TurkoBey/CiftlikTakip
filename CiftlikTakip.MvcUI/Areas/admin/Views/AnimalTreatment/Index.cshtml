@@ -1,0 +1,25 @@
+﻿@using CiftlikTakip.MvcUI.Areas.admin.Models.Items;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<AnimalTreatmentItem>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Tedaviler</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="~/Home">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Tedavi Bilgileri</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<partial name="Details" />
+<partial name="Table" />

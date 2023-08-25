@@ -1,0 +1,114 @@
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.deps.json
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.pdb
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.Model.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/Infrastructure.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.Model.pdb
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/Infrastructure.pdb
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.csproj.AssemblyReference.cache
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.AssemblyInfoInputs.cache
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.AssemblyInfo.cs
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.csproj.CoreCompileInputs.cache
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.csproj.CopyComplete
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/refint/CiftlikTakip.DataAccess.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.pdb
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/ref/CiftlikTakip.DataAccess.dll
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.runtimeconfig.json
+C:/Users/ROOT/source/repos/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.genruntimeconfig.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.deps.json
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.runtimeconfig.json
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.DataAccess.pdb
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.Model.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/Infrastructure.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/CiftlikTakip.Model.pdb
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/bin/Debug/net6.0/Infrastructure.pdb
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.csproj.AssemblyReference.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.AssemblyInfoInputs.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.AssemblyInfo.cs
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.csproj.CoreCompileInputs.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.csproj.CopyComplete
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/refint/CiftlikTakip.DataAccess.dll
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.pdb
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/CiftlikTakip.DataAccess.genruntimeconfig.cache
+/Users/mustafaavcu/Desktop/AHLATÇI/2023-01-00 - PROJELER/CiftlikTakip/CiftlikTakip.DataAccess/obj/Debug/net6.0/ref/CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfo.cs
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.deps.json
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.runtimeconfig.json
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CopyComplete
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\refint\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.genruntimeconfig.cache
+C:\Users\KALE\Desktop\20230716\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\ref\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfo.cs
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.deps.json
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.runtimeconfig.json
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CopyComplete
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\refint\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.genruntimeconfig.cache
+C:\Users\KALE\Desktop\Çiftlik Sürü TAKİP PROJESİ\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\ref\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.deps.json
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.runtimeconfig.json
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfo.cs
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CopyComplete
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\refint\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.genruntimeconfig.cache
+C:\Users\KALE\Desktop\PROJELER\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\ref\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.deps.json
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.runtimeconfig.json
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\CiftlikTakip.Model.pdb
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.AssemblyReference.cache
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfoInputs.cache
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.AssemblyInfo.cs
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.csproj.CopyComplete
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\refint\CiftlikTakip.DataAccess.dll
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.pdb
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\CiftlikTakip.DataAccess.genruntimeconfig.cache
+C:\Users\KALE\Desktop\BUNU SİLME PROJEYI BUNUNLA BERABER VERECEKSİN\KaynakKod\CiftlikTakip\CiftlikTakip.DataAccess\obj\Debug\net6.0\ref\CiftlikTakip.DataAccess.dll
